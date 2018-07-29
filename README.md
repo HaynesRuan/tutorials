@@ -7,7 +7,7 @@
 
 <br>
 
-我是 周沫凡, [莫烦Python](https://morvanzhou.github.io/about/) 只是谐音, 我喜欢制作,
+我是 周沫凡, [莫烦Python](https://morvanzhou.github.io/) 只是谐音, 我喜欢制作,
 分享所学的东西, 所以你能在这里找到很多有用的东西, 少走弯路. 你能在[这里](https://morvanzhou.github.io/about/)找到关于我的所有东西.
 
 ## 这个 Python tutorial 的一些内容:
@@ -30,6 +30,7 @@
 * [数据处理](https://morvanzhou.github.io/tutorials/data-manipulation/)
   * [Numpy & Pandas (处理数据)](https://morvanzhou.github.io/tutorials/data-manipulation/np-pd/)
   * [Matplotlib (绘图)](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
+  * [爬虫](https://morvanzhou.github.io/tutorials/data-manipulation/scraping/)
 * [其他](https://morvanzhou.github.io/tutorials/others/)
   * [Git (版本管理)](https://morvanzhou.github.io/tutorials/others/git/)
   * [Linux 简易教学](https://morvanzhou.github.io/tutorials/others/linux-basic/)
